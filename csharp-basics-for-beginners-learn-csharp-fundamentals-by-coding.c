@@ -1,3 +1,11 @@
+/*
+ * Course: Csharp Basics For Beginners Learn Csharp Fundamentals By Coding
+ * Platform: Embedded Systems
+ * Author: Ashraf S A AlMadhoun
+ * Purpose: Auto-generated metadata block to document the learning goals.
+ * Notes: Auto-generated metadata block (2025-11-18)
+ */
+
 #include <stdio.h> // Include I/O for printing
 
 // Function to add two integers
@@ -13,6 +21,7 @@ void print_array(const int *arr, size_t n) { // Begin print_array
 } // End print_array
 
 // Entry point
+// Main routine: orchestrates the csharp basics for beginners learn csharp fundamentals by coding scenario
 int main(void) { // Start main
   printf("C# Basics (C analog fundamentals)\n"); // Title output
   int x = 3; // Declare integer x
